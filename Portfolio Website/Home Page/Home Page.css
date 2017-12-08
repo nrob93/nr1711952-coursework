@@ -1,0 +1,20 @@
+body {
+  min-height: 100%;
+}
+
+header{background-color:  	white; }
+h1{color: white;}
+h2{text-indent: 20px}
+main{background-color: grey;}
+nav{background-color: #eaeded ;}
+p{text-align: center;; text-indent: 20px; margin-bottom: 30px;}
+.bottom-margin{margin-bottom: 30px;}
+footer{
+  background-color:#eaeded;
+   text-align: center;
+   position:relative;
+   bottom:0;
+}
+#cont {
+  overflow: auto;
+}
